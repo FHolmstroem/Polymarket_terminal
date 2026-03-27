@@ -10,6 +10,10 @@ This tool provides a single-page UI that connects directly to the Polymarket Cen
 
 **Disclaimer:** This tool is for educational and informational purposes only. It is not financial advice. 
 
+## Preview
+![Polymarket Tracker Dashboard 1](./assets/screenshot_1.png)
+
+![Polymarket Tracker Dashboard 2](./assets/screenshot_2.png)
 
 ## Features
 
