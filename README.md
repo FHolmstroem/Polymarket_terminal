@@ -10,7 +10,6 @@ This tool provides a single-page UI that connects directly to the Polymarket Cen
 
 **Disclaimer:** This tool is for educational and informational purposes only. It is not financial advice. 
 
-![Screenshot](./screenshot.png) *(Note: Add a screenshot of your dashboard here and delete this note)*
 
 ## Features
 
